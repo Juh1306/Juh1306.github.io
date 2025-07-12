@@ -69,6 +69,6 @@ border-radius: 8px;
 }
 
 .social a:hover{
-    color: palevioletred
+    color: palevioletred;
     background-color: bisque;
 }
