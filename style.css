@@ -1,0 +1,24 @@
+body {
+    backgroud-color: rgb(0, 0, 0);
+    margin: 0;
+    font-family:buffering
+}
+
+.inicio {
+display: flex;
+height: 100vh;
+}
+
+.foto {
+    flex:1;
+background-color: black;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.foto img{
+width: 300px;
+height :auto;
+border-radius: 8px;
+}
