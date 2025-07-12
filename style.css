@@ -1,5 +1,5 @@
 body {
-    backgroud-color: rgb(0, 0, 0);
+    backgroud-color: rgb(19, 7, 7);
     margin: 0;
     font-family:buffering
 }
@@ -11,7 +11,7 @@ height: 100vh;
 
 .foto {
     flex:1;
-background-color: black;
+background-color: rgb(26, 7, 7);
 display: flex;
 align-items: center;
 justify-content: center;
